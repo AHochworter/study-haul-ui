@@ -1,4 +1,5 @@
 # Study Haul - Backend Stretch
+![Mobile View of Home Page](https://user-images.githubusercontent.com/7227063/280494146-b236c364-a150-4d37-b56b-8de97c62b06e.png)
 
 ## Abstract:
 Study Haul is a React Application that retrieves data from a custom API, built as part of a Stretch Tech project in module 3 of the Front End program at the Turing School of Software and Design. The API was created using Express, Knex, and PostgreSQL and was seeded with interview questions that were created from class audits in modules 2 and 3 of the Front End program. When the page loads, users are presented with a home screen that lists all questions available in the database. Users can then sort the questions by module 2 or module 3. To answer a question, the user selects the question and the selected question screen in loaded. The user is then able to enter their answer and check it against the correct answer.
