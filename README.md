@@ -1,28 +1,17 @@
 # Study Haul - Backend Stretch
 ![Screenshot 2023-11-07 at 11 51 52 AM](https://github.com/AHochworter/study-haul-ui/assets/125393235/202fec37-b7d7-43dc-9e6d-ba894502a49f)
 
-## Abstract:
-Study Haul is a React Application that retrieves data from a custom API, built as part of a Stretch Tech project in module 3 of the Front End program at the Turing School of Software and Design. The API was created using Express, Knex, and PostgreSQL and was seeded with interview questions that were created from class audits in modules 2 and 3 of the Front End program. When the page loads, users are presented with a home screen that lists all questions available in the database. Users can then sort the questions by module 2 or module 3. To answer a question, the user selects the question and the selected question screen in loaded. The user is then able to enter their answer and check it against the correct answer.
-
 ## Deployed Link
 [Study Haul Deployed App](https://study-haul-api-u15v.vercel.app/)
 
-## Installation Instructions:
-[Study Haul](https://github.com/ganuza/study-haul-ui) works in a browser, but if you would like to build your own version, you can clone the repository to your local machine as follows:
+## Abstract:
+Study Haul is a React Application that retrieves data from a custom API, built as part of a Stretch Tech project in module 3 of the Front End program at the Turing School of Software and Design. The API was created using Express, Knex, and PostgreSQL and was seeded with interview questions that were created from class audits in modules 2 and 3 of the Front End program. When the page loads, users are presented with a home screen that lists all questions available in the database. Users can then sort the questions by module 2 or module 3. To answer a question, the user selects the question and the selected question screen in loaded. The user is then able to enter their answer and check it against the correct answer.
 
-1. Go to the [Study Haul](https://github.com/ganuza/study-haul-ui).
+## Contributors:
+Adrian Zabolitzki [ganuza](https://github.com/ganuza) <br/>
+Ann Hochworter [AHochworter](https://github.com/AHochworter)<br/>
+Jan McSorley [jmcsorle](https://github.com/jmcsorle)
 
-2. Select the "fork" option on the upperright and follow the prompts to save a fork to your GitHub account:
-
-![Fork and Clone Options in GitHub](https://user-images.githubusercontent.com/7227063/280493926-43fb1c8a-6e87-4a6a-b87b-cfaaefc9849f.png)
-
-3. Once you have forked the repository, choose the "Code" drop down to copy the SSH key for cloning:
-
-4. Open your preferred command-line interface tool (e.g. Terminal) and create a directory where you would like to clone the repository.
-
-5. Change directories into the directory your created.
-
-6. Without the brackets, type [git clone], type a space, then use Command-v on a Mac, or Control-v on PC/Android to past in the SSH key you copied in step 3.
 
 ## Technologies used to build this app:
 
@@ -45,6 +34,23 @@ Study Haul is a React Application that retrieves data from a custom API, built a
 - The Paciello Group, Coulour Contrast Analyser for testing color contrast
 - Github Project
 
+## Installation Instructions:
+[Study Haul](https://github.com/ganuza/study-haul-ui) works in a browser, but if you would like to build your own version, you can clone the repository to your local machine as follows:
+
+1. Go to the [Study Haul](https://github.com/ganuza/study-haul-ui).
+
+2. Select the "fork" option on the upperright and follow the prompts to save a fork to your GitHub account:
+
+![Fork and Clone Options in GitHub](https://user-images.githubusercontent.com/7227063/280493926-43fb1c8a-6e87-4a6a-b87b-cfaaefc9849f.png)
+
+3. Once you have forked the repository, choose the "Code" drop down to copy the SSH key for cloning:
+
+4. Open your preferred command-line interface tool (e.g. Terminal) and create a directory where you would like to clone the repository.
+
+5. Change directories into the directory your created.
+
+6. Without the brackets, type [git clone], type a space, then use Command-v on a Mac, or Control-v on PC/Android to past in the SSH key you copied in step 3.
+
 
 ## Preview of App:
 
@@ -64,11 +70,6 @@ Study Haul is a React Application that retrieves data from a custom API, built a
 ## Context:
 
 Study Haul, Stretch Project is a front end development project of the Turing School of Software and Design. It is assigned during Module 3 of the program. Students are paired together on teams to complete the requirements for a minimally viable product. 
-
-## Contributors:
-Adrian Zabolitzki [ganuza](https://github.com/ganuza)
-Ann Hochworter [AHochworter](https://github.com/AHochworter)
-Jan McSorley [jmcsorle](https://github.com/jmcsorle)
 
 ## Learning Goals:
 The learning goals of this project included: 
